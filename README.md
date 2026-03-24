@@ -1,1 +1,1 @@
-# terms
+# terms for my bot
